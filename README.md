@@ -1,7 +1,5 @@
 <div align="center">
   <a href="https://github.com/lucascottetpastor">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=lucascottetpastor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascottetpastor&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center"> 
