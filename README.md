@@ -24,12 +24,3 @@
 
 <p align="left">🎯 Interesses e hobbies<br>	•	🧠 Aprender novas tecnologias<br>	•	🔧 Criar e otimizar APIs e bancos de dados<br>	•	👨‍💻 Trabalhar em projetos pessoais e colaborativos<br>	•	⚽ Assistir futebol<br>	•	🎮 Jogar com amigos<br>	•	☕ Acompanhar código com um bom café</p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
